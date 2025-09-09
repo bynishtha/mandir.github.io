@@ -1,0 +1,36 @@
+{
+  "Hanuman Bhajans": [
+    { "title": "Shree Hanuman Chalisa", "singer": "Hariharan", "file": "audio/bhajans/hanuman/shree-hanuman-chalisa.mp3" },
+    { "title": "Bajrang Baan", "singer": "Hariharan", "file": "audio/bhajans/hanuman/bajrang-baan.mp3" },
+    { "title": "Hanuman Ashtak", "singer": "Rahul Saxena", "file": "audio/bhajans/hanuman/hanuman-ashtak.mp3" }
+  ],
+  "Shiva Bhajans": [
+    { "title": "Shiv Tandav Stotram", "singer": "Shankar Mahadevan", "file": "audio/bhajans/shiva/shiv-tandav-stotram.mp3" },
+    { "title": "Mahamrityunjay Mantra", "singer": "Shankar Mahadevan", "file": "audio/bhajans/shiva/mahamrityunjay-mantra.mp3" },
+    { "title": "Maha Mrityunjaya Mantra", "singer": "Sounds of Isha", "file": "audio/bhajans/shiva/maha-mrityunjaya-isha.mp3" }
+  ],
+  "Ganesha Bhajans": [
+    { "title": "Om Gan Ganpate Namah", "singer": "Anuradha Paudwal, Suresh Wadkar", "file": "audio/bhajans/ganesha/om-gan-ganpate.mp3" },
+    { "title": "Sukhkarta Dukhharta", "singer": "Amitabh Bachchan", "file": "audio/bhajans/ganesha/sukhkarta-dukhharta.mp3" },
+    { "title": "Ganpati Aarti", "singer": "Amitabh Bachchan", "file": "audio/bhajans/ganesha/ganpati-aarti.mp3" }
+  ],
+  "Vishnu, Krishna & Ram Bhajans": [
+    { "title": "Om Namo Bhagavate", "singer": "Sam C.S., Sanjith Hegde", "file": "audio/bhajans/vishnu-krishna-ram/om-namo-bhagavate.mp3" },
+    { "title": "Ram Dhun", "singer": "Shankar Mahadevan", "file": "audio/bhajans/vishnu-krishna-ram/ram-dhun.mp3" },
+    { "title": "Raghupati Raghava Raja Ram", "singer": "Armonian", "file": "audio/bhajans/vishnu-krishna-ram/raghupati-raghav.mp3" },
+    { "title": "Om Jai Jagdish Hare - 1", "singer": "Tulsi Kumar", "file": "audio/bhajans/vishnu-krishna-ram/om-jai-jagdish-hare-tulsi.mp3" },
+    { "title": "Om Jai Jagdish Hare - 2", "singer": "Anuradha & Arun Paudwal", "file": "audio/bhajans/vishnu-krishna-ram/om-jai-jagdish-hare-anuradha.mp3" },
+    { "title": "Shri Krishna Govind", "singer": "Jubin Nautiyal", "file": "audio/bhajans/vishnu-krishna-ram/shri-krishna-govind.mp3" },
+    { "title": "Achyutam Keshavam - 1", "singer": "Alka Yagnik, Sanjeev Chaturvedi", "file": "audio/bhajans/vishnu-krishna-ram/achyutam-keshavam-alka.mp3" },
+    { "title": "Achyutam Keshavam - 2", "singer": "Sohail Sen, Sonu Nigam", "file": "audio/bhajans/vishnu-krishna-ram/achyutam-keshavam-sonu.mp3" }
+  ],
+  "Devi (Mata) Bhajans": [
+    { "title": "Shree Durga Chalisa", "singer": "Anuradha Paudwal", "file": "audio/bhajans/devi/shree-durga-chalisa.mp3" },
+    { "title": "Vishvambhari Stuti", "singer": "Kinjal Dave", "file": "audio/bhajans/devi/vishvambhari-stuti.mp3" },
+    { "title": "Jai Ambe Gauri Aarti", "singer": "Alka Yagnik", "file": "audio/bhajans/devi/jai-ambe-gauri-aarti.mp3" },
+    { "title": "Gayatri Mantra 108 Times", "singer": "Anuradha Paudwal", "file": "audio/bhajans/devi/gayatri-mantra-108.mp3" }
+  ],
+  "Other Bhajans": [
+    { "title": "Dutt Bavani", "singer": "Hari Cassettes", "file": "audio/bhajans/others/dutt-bavani.mp3" }
+  ]
+}
