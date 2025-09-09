@@ -1,6 +1,6 @@
 {
   "Hanuman Bhajans": [
-    { "title": "Shree Hanuman Chalisa", "singer": "Hariharan", "file": "audio/bhajans/hanuman/shree-hanuman-chalisa.mp3" },
+    { "title": "Shree Hanuman Chalisa", "singer": "Hariharan", "file": "https://archive.org/embed/hanuman-chalisa_202007" },
     { "title": "Bajrang Baan", "singer": "Hariharan", "file": "audio/bhajans/hanuman/bajrang-baan.mp3" },
     { "title": "Hanuman Ashtak", "singer": "Rahul Saxena", "file": "audio/bhajans/hanuman/hanuman-ashtak.mp3" }
   ],
